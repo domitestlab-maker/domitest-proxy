@@ -1,0 +1,9 @@
+{
+  "name": "domitest-proxy",
+  "version": "1.0.0",
+  "description": "API proxy for Domitest cotizador and agendador",
+  "type": "module",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.45.0"
+  }
+}
